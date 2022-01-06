@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins&family=Roboto+Slab:wght@600&display=swap');
+
 body{
     font-family: 'Poppins', sans-serif;
 }
@@ -10,17 +12,42 @@ font-size: 50px;
 .color2{
     color: red;
 }
+#border{
+    border-left: 5px solid;
+    border-image: linear-gradiant(red, tomato);
+    border-image-slice: 1;
+}
 .flexible-Container{
     display: flex;
+    margin-top: 100px;
+}
+.font{
+    font-family: 'Roboto Slab', serif;
+}
+.box{
+    width: 33.33%;
+    margin-left: ;
+}
+.mission1{
+    border-style: none;
+    background-color: turquoise;
+}
+.vision1{
+    border-style: none;
+    background-color:yellow;
+}
+.goal1{
+    border-style: none;
+    background-color:purple
 }
 .Banana{
-    width: 50%;
+    width: 65%;
+    padding-left: 12%;
 }
 .Banana img{
-    line-height: 10px;
-    width: 40%;
+    width: 75%;
     padding-left: 10%;
-    border-radius: 10px;  
+    border-radius: 10px;
 }
 .explore-button{
 text-decoration: none;
