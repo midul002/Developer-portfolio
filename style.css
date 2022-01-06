@@ -25,24 +25,30 @@ font-size: 50px;
     font-family: 'Roboto Slab', serif;
 }
 .box{
-    width: 33.33%;
-    margin-left: ;
+    width: 50%;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding-left: 10px;
 }
 .mission1{
     border-style: none;
-    background-color: turquoise;
+    background-color: rgb(181, 233, 228);
+    border-radius: 15px;
 }
 .vision1{
     border-style: none;
-    background-color:yellow;
+    background-color:rgb(226, 173, 143);
+    border-radius: 15px;
 }
 .goal1{
     border-style: none;
-    background-color:purple
+    background-color:rgb(243, 229, 225);
+    border-radius: 15px;
 }
 .Banana{
-    width: 65%;
+    width: 50%;
     padding-left: 12%;
+    
 }
 .Banana img{
     width: 75%;
