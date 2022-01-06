@@ -1,0 +1,64 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+h1{
+font-size: 50px;
+}
+.COLOR{
+    color:orange;
+}
+.color2{
+    color: red;
+}
+.flexible-Container{
+    display: flex;
+}
+.Banana{
+    width: 50%;
+}
+.Banana img{
+    line-height: 10px;
+    width: 40%;
+    padding-left: 10%;
+    border-radius: 10px;  
+}
+.explore-button{
+text-decoration: none;
+background-color: red;
+padding:10px 40px;
+color: white;
+font-weight: 700;
+border-radius: 5px;
+}
+
+.Read-the-Documentation{
+    text-decoration: none;
+    background-color: red;
+    padding:10px 40px;
+    color: white;
+    font-weight: 700;
+    border-radius: 5px;
+}
+.App-Feature{
+    text-decoration: none;
+    background-color: red;
+    padding:10px 40px;
+    color: white;
+    font-weight: 700;
+    border-radius: 5px;
+}
+footer{
+    background: black;
+    height: auto;
+    width: auto;
+    padding-top: 40px;
+color: white;
+}
+.footer-content{
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+
+}
