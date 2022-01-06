@@ -76,9 +76,9 @@ border-radius: 5px;
 }
 footer{
     background: black;
-    height: auto;
-    width: auto;
-    padding-top: 40px;
+    
+    width: 100%;
+    
 color: white;
 }
 .footer-content{
